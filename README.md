@@ -4,9 +4,9 @@ move to recent directory with peco.
 
 ## Install
 
-With [fisherman]
+With [fisherman](https://github.com/fisherman/fisherman)
 
-With [z]
+With [z](https://github.com/fisherman/z)
 
 ```
 fisher tsu-nera/fish-peco_recentd
