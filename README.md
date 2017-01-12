@@ -5,15 +5,14 @@ move to recent directory with peco.
 ## Install
 
 With [fisherman]
+
 With [z]
 
 ```
-fisher tsu-nera/peco_recentd
+fisher tsu-nera/fish-peco_recentd
 ```
 
 ## Usage
-Based directly on the percol plugin.
-
 Please bind peco_recentd your favorite key.
 
 If you'd like to bind CTRL+x CTRL+r
