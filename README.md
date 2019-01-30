@@ -9,7 +9,7 @@ With [fisherman](https://github.com/fisherman/fisherman)
 With [z](https://github.com/fisherman/z)
 
 ```
-fisher tsu-nera/fish-peco_recentd
+fisher add tsu-nera/fish-peco_recentd
 ```
 
 ## Usage
